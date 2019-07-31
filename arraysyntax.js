@@ -10,3 +10,9 @@ console.log(friends[3]);
 friends.push("Mary");
 
 console.log(friends);
+
+//adding alert only to modify originial file
+
+alert("Hello folks");
+
+alert("good day people");
