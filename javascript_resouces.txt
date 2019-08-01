@@ -1,0 +1,1 @@
+Please use this file for adding helpful javascript tips and tricks
